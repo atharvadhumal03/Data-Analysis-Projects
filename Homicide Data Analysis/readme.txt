@@ -17,6 +17,6 @@ Overview:
 The data set provides recorded findings of homicide rate and homicide count for the different regions and its subregions. Where ever required the data set has been filtered or sliced to help assit with visualization for easier analysis. Graphs used for visualization have been selected by keeping in mind that the illustation must be simple, concise and straightforward to understand. 
 
 Modules used: 
-pandas module for cleaning and assiting with analysis.
+pandas module for cleaning and assisting with analysis.
 matplotlib for data visualization.
 plotly express for data visualization. 
