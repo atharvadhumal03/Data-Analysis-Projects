@@ -12,3 +12,10 @@ pandas module for data cleaning and assisting with analysis.
 seaborn moduel for data visualization. 
 matplotlib for data visualization. 
 
+The dataset has been analyzed as per the following requirements:
+- clean the data 
+- '*' in HS column represents the player is not out. Form a new column to represent the respective. 
+- compare the total proportion of players by country. 
+- compare the total number of matches played by each country. 
+- compare the total runs scored by each country. 
+- compare the total runs scored by each Australian player.
