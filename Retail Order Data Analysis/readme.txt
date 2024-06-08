@@ -1,6 +1,6 @@
 ## Retail Order Data Analysis 
 
-This folder contains four files: 
+This folder contains five files: 
 orders.csv - original data set (excel comma seperated values file) 
 orders.zip - zip file 
 query_statements - SQL script used for data analysis 
